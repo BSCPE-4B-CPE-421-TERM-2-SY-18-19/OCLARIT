@@ -1,0 +1,3 @@
+The raspberry pi has an operating system properly installed in it.
+With the right cables and wires connected or are in placed, there is a certainty that electricity continuously flow, making it functional.
+In addition, the input devices such as the keyboard and mouse are attached to the right places and with the right source and voltage, the unit is running smoothly.
